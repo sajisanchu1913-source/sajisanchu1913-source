@@ -2,16 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=sajisanchu1913-source&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-# Hi, I'm Sajitha Mathi 👋
+# Hi, I'm Sajitha Mathi 
 
 **MS Computer Engineering @ NYU'26** | Open to **SWE** roles with expertise in Data Engineering & Data Analytics
 
 I build end-to-end data systems — ETL/ELT pipelines, analytics dashboards, and full-stack apps powered by AI. I've worked with Python, SQL, PostgreSQL, Oracle, ClickHouse, Apache Kafka, Spark, dbt, RAG, XGBoost, React, Node.js, REST APIs, Docker, AWS, Tableau, Prometheus, Grafana, data modeling, ERD design and many more. Currently contributing to open source at Microsoft (PyRIT). Based in NYC and actively looking for opportunities.
 
-## 🏆 Open Source Contributions
+## Open Source Contributions
 
 ### Microsoft PyRIT — AI Security Framework
-- ✅ Merged PR #1831 — Added SALT-NLP Moral Integrity Corpus dataset loader
-- 🔗 [View Merged PR](https://github.com/microsoft/PyRIT/pull/1831)
+- Merged PR #1831 — Added SALT-NLP Moral Integrity Corpus dataset loader
+- [View Merged PR](https://github.com/microsoft/PyRIT/pull/1831)
 
-📫 sajisanchu1913@gmail.com · [LinkedIn](https://www.linkedin.com/in/sajitha-mathi/)
+ sajisanchu1913@gmail.com · [LinkedIn](https://www.linkedin.com/in/sajitha-mathi/)
