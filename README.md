@@ -1,7 +1,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sajisanchu1913-source&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 # Hi, I'm Sajitha Mathi 👋
 
 MS Computer Engineering @ NYU | Software Engineer open to SWE roles
