@@ -4,8 +4,8 @@
 
 # Hi, I'm Sajitha Mathi 👋
 
-MS Computer Engineering @ NYU | Software Engineer open to SWE roles
+**MS Computer Engineering @ NYU** | Open to **SWE** roles with expertise in Data Engineering & Data Analytics
 
-I build end-to-end data systems — ETL pipelines, analytics dashboards, and full-stack apps powered by AI. I've worked with PostgreSQL, Python, React, Node.js, Prometheus, Grafana, and more. Currently contributing to open source at Microsoft (PyRIT). Based in NYC and actively looking for software engineering opportunities.
+I build end-to-end data systems — ETL/ELT pipelines, analytics dashboards, and full-stack apps powered by AI. I've worked with Python, SQL, PostgreSQL, Oracle, ClickHouse, Apache Kafka, Spark, dbt, RAG, XGBoost, React, Node.js, REST APIs, Docker, AWS, Tableau, Prometheus, Grafana, data modeling, and ERD design. Currently contributing to open source at Microsoft (PyRIT). Based in NYC and actively looking for opportunities.
 
-📫 sajisanchu1913@gmail.com
+📫 sajisanchu1913@gmail.com · [LinkedIn](https://www.linkedin.com/in/sajitha-mathi/)
