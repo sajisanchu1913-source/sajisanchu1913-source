@@ -13,5 +13,7 @@ I build end-to-end data systems — ETL/ELT pipelines, analytics dashboards, and
 ### Microsoft PyRIT — AI Security Framework
 - Merged PR #1831 — Added SALT-NLP Moral Integrity Corpus dataset loader
 - [View Merged PR](https://github.com/microsoft/PyRIT/pull/1831)
+- Merged PR #1910 — Fixed async temp file leak and race condition in Azure storage handler
+- [View Merged PR](https://github.com/microsoft/PyRIT/pull/1910)
 
  sajisanchu1913@gmail.com · [LinkedIn](https://www.linkedin.com/in/sajitha-mathi/)
